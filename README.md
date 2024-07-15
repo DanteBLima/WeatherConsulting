@@ -2,8 +2,6 @@
 Weather forecast application made using Golang for the backend and vuejs in the frontend.
 
 
-
-# WeatherConsulting
 Weather forecast application made using Golang for the backend and vuejs in the frontend.
 
 This application allows you to check the weather forecast in different ways and with different sources.
