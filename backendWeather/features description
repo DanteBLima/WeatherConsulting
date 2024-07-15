@@ -1,0 +1,14 @@
+1 Interface com as opcoes pro usuario selecionar
+ 1.0 - Uma interface com opcoes 
+ 
+   1.1 - Botao para selecionar o provedor de previsao do tempo desejado para realizar as operacoes.
+   		(identificar a api, cada api tem um address que vai pro router)
+   		
+    1.2 - Botao para selecionar tipo desejado de acordo com o provedor de previsao do tempo selecionado oferece: 
+    Current weather, {periodo de tempo dinamico (7 dias, 15 dias, etc)} forecast ou historical weather, etc;
+  		(identificar a api escolhida e mostrar as opcoes que ela oferece para consulta)
+  		
+     1.3 - Campo para colocar o nome da cidade, talvez estado tambem.
+       		(validar cidade/estado) (retorno visual caso cidade nao exista)
+   
+      1.4 - Mostrar os dados de previsao de tempo do provedor selecionado de acordo com as opcoes selecionadas.
